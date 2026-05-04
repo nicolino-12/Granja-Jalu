@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://granjajalutuc.netlify.app/sitemap.xml
